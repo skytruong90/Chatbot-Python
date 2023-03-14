@@ -20,3 +20,13 @@ Chatbots can be integrated into a variety of platforms, including websites, mess
  5. Time-Saving: Chatbots can quickly and efficiently answer common questions and provide support, freeing up human agents to focus on more complex tasks and providing more personalized support where it is needed.
 
 Overall, chatbots can provide a valuable tool for businesses looking to improve customer service, reduce costs, and provide 24/7 support to their users.
+
+## Things I learned:
+1. Python programming: By using Python to build your chatbot, you may have deepened your knowledge of Python programming concepts, such as data types, functions, control flow statements, and object-oriented programming.
+2. Natural language processing: By incorporating natural language processing techniques into your chatbot, such as tokenization, part-of-speech tagging, and sentiment analysis, you may have gained experience in working with text data and understanding how computers can interpret human language.
+3. APIs and web scraping: By integrating APIs or web scraping techniques into your chatbot, you may have learned how to retrieve data from external sources, such as weather information or news articles, and incorporate that data into your chatbot's responses.
+
+## Things I would improve:
+1. Accuracy and relevancy of responses: Review your chatbot's responses and ensure that they are accurate and relevant to the user's input. You may consider testing your chatbot with various inputs and improving its responses based on the feedback.
+2. Naturalness of conversation: Aim to make your chatbot's responses as natural and human-like as possible, to make the user feel like they are having a real conversation. You may consider using natural language generation techniques, such as templates or machine learning, to generate more varied and personalized responses.
+3. User experience: Consider improving the user experience of your chatbot, such as by providing clear instructions, offering helpful prompts, and creating a pleasant interface. You may also consider incorporating features such as error handling, confirmation prompts, and fallback options to ensure that the user always receives a response.
